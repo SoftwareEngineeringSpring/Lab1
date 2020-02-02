@@ -24,7 +24,7 @@ public class Calculations {
 	}
 	
 	public static int addition(int w, int z) {
-		int sum = w - z;
+		int sum = w + z;
 		return sum; 
 	}
 	
