@@ -10,12 +10,17 @@ public class Calculations {
 		System.out.println("The sum is= "+ sum);
 		
 		//member_B add the feature of subtracting x from y and print the result
-		
+		int subt = x-y;
+		System.out.println("The subt is= "+ subt);
 		//member_C add the feature of dividing x by y and print the result
 		int quot = x/y;
 		System.out.prinln("The quotient is=" + quot);
 		//member_D add the feature of multiplying x by y and print the result
 		
+		
+		int multiply = x*y;
+		System.out.println("The multiply is= "+ multiply);		
+
 		
 		
 		//Exercise 5: Spot the issues to be reported
