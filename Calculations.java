@@ -33,8 +33,8 @@ public class Calculations {
 		return sum; 
 	}
 	
-	public static String welcome() {
-		return "Hello World"; 
+	public static void welcome() {
+	  System.out.println("Hello World"); 
 	}
 
 }
